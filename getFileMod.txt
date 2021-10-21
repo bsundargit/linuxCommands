@@ -1,0 +1,2 @@
+stat -c %a <fileName> - will return 644 or 755
+
